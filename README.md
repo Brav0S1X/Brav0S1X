@@ -3,7 +3,7 @@
 ---
 
 # 👤 About Me:
-💼 I'm currently working in a military institution.<br>🤝 I'm looking to cooperation with cyber security professionals.<br>👬 I'm looking for help with server-backend development.<br>📚 I'm currently learning JS, html & CSS.<br>💬 Ask me about cyber security; data encryption and decryptions;<br>& also about linux management.<br>
+💼 I'm currently working in a military institution.<br>🤝 I'm looking to cooperation with cyber security professionals.<br>👬 I'm looking for help with server-backend development.<br>📚 I'm currently learning JS, html & CSS.<br>💬 Ask me about cyber security; data encryption and decryptions; & also about linux management.<br>
 
 ![](https://komarev.com/ghpvc/?username=Brav0S1X&color=fb4362)<br>[![](https://visitcount.itsvg.in/api?id=Brav0S1X&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
